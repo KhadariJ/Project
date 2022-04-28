@@ -1,4 +1,4 @@
-# Learning Loss vs. Covid-19 
+# Innovation Education Center 
 ![logo](https://freesvg.org/img/learn-icon.png)
 ## Problem
 During the pandemic, students suffered learning loss due to the abrupt transition to virtual learning. 
