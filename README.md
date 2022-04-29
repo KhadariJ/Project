@@ -12,3 +12,4 @@ During the pandemic, students suffered learning loss due to the abrupt transitio
 
 ## Solution
 Create an application where teachers can login to see student statics,  input grades,  assess student progress, and select courses for students who need additional help in a particular subject. 
+## Output
